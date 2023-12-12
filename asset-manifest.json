@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Instant-popcorn/static/css/main.a85ecdba.css",
+    "main.js": "/Instant-popcorn/static/js/main.3892bab8.js",
+    "index.html": "/Instant-popcorn/index.html",
+    "main.a85ecdba.css.map": "/Instant-popcorn/static/css/main.a85ecdba.css.map",
+    "main.3892bab8.js.map": "/Instant-popcorn/static/js/main.3892bab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a85ecdba.css",
+    "static/js/main.3892bab8.js"
+  ]
+}
